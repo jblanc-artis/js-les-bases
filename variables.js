@@ -56,3 +56,5 @@
 // Placer 'Ross', 'Chandler' et 'Joey' entre 'Monica' et 'Phoebe'.
 // Doit apparaitre dans la console : (6) ["Rachel", "Monica", "Ross", "Chandler",
 // "Joey", "Phoebe"]
+
+// ------------------------EXO 10------------------------
