@@ -58,3 +58,62 @@
 // "Joey", "Phoebe"]
 
 // ------------------------EXO 10------------------------
+// La société Simplon.co a demandé à ta collègue Ada de rédiger un morceau de code qui sera utilisé pour la com.
+// Ce code permettra de connaître la prochaine date de formation.
+// Ada a utilisé la variable dateFormation pour stocker la date mais son code ne fonctionne pas.
+// Aide là à trouver la solution.
+
+// let dateFormation = "16 février 2021";
+
+// console.log(`La prochaine formation commencera à partir du ${dateformation}`);
+
+// ------------------------EXO 11------------------------
+// La société Simplon.co demande à ta collègue Ada de calculer la somme du nombre de like du dernier post Twitter du jour et de la veille.
+// Ada est proche du but mais son code ne fonctionne pas.
+// Aide la à trouver la solution.
+
+// let likeHier = "245";
+// let likeAujourdhui = 321;
+// let totalLike = likeHier + likeAujourdhui;
+
+// console.log(totalLike);
+
+// ------------------------EXO 12------------------------
+// La société Simplon.co demande à ta collègue Ada de créer une réunion dans le planning avec l'heure de début.
+// Ada a laissé le stagiaire s'en occuper mais il n'y arrive pas.
+// Aide le à trouver la solution.
+
+// let h = 10;
+// let m = 45;
+// let separateur = h;
+// let debutReunion = H + separateur + M;
+
+// console.log(`La réunion commence à ${debutReunion}`);
+
+// ------------------------EXO 13------------------------
+// Afficher dans la console l'opération de 2 * 4 + 6, le tout divisé par 2.
+
+// console.log();
+
+// ------------------------EXO 14------------------------
+// La société Simplon.co a besoin d'une estimation du coût d'achats de cadeaux pour les partenaires.
+// La société a dans sa base de données 245 partenaires auxquels s'ajoutent 38 nouveaux partenaires.
+// L'achat et l'envoi d'un cadeau coûte en tout 5€35.
+// Aide Ada a calculer le prix final de l'opération.
+
+// console.log();
+
+// ------------------------EXO 15------------------------
+// Le budget maximum étant de 1500€, Ada a donc cherché une autre entreprise et a finalement trouvé une autre offre à 3€20.
+// Par contre, cette entreprise fait facturer un supplément de 500€ pour les taxes.
+// Aide Ada a calculer le prix final de la nouvelle offre.
+
+// console.log();
+
+// ------------------------EXO 16------------------------
+// Pour financer la nouvelle campagne marketing, Ada organise une levée de fonds et fait appel à des investisseurs et des amis.
+// L'argent récolté des investisseurs est taxé à 5,5% et celui de ses amis ne l'est pas.
+// Ada a récolté 1328€ des investisseurs et 565€ de ses amis.
+// Ada te demande de l'aider à calculer le bénéfice. Les bénéfices sont les sommes récoltées moins les taxes.
+
+// console.log();
