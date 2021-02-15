@@ -29,7 +29,7 @@
 
 // <===== DEBUT CODE =====>
 // let x;
-// let y
+// let y;
 // let z;
 // <===== FIN CODE =====>
 
@@ -44,7 +44,7 @@
 // Doit apparaitre dans la console : 80 4 84
 
 // <===== DEBUT CODE =====>
-// console.log()
+// console.log();
 // <===== FIN CODE =====>
 
 // ------------------------EXO 4------------------------
@@ -76,8 +76,8 @@
 
 // <===== DEBUT CODE =====>
 // let idole = 'Margaret';
-// let troisiemeLettre = nom;
-// let derniereLettre = nom;
+// let troisiemeLettre = idole;
+// let derniereLettre = idole;
 // console.log();
 // <===== FIN CODE =====>
 
@@ -88,10 +88,6 @@
 
 // <===== DEBUT CODE =====>
 // let myArray;
-// let;
-// let;
-// let;
-// let;
 // console.log();
 // <===== FIN CODE =====>
 
@@ -136,7 +132,7 @@
 // Aide là à trouver la solution.
 
 // <===== DEBUT CODE =====>
-// let dateFormation = "16 février 2021";
+// let dateFormation = '16 février 2021';
 // console.log(`La prochaine formation commencera à partir du ${dateformation}`);
 // <===== FIN CODE =====>
 
@@ -146,7 +142,7 @@
 // Aide la à trouver la solution.
 
 // <===== DEBUT CODE =====>
-// let likeHier = "245";
+// let likeHier = '245';
 // let likeAujourdhui = 321;
 // let totalLike = likeHier + likeAujourdhui;
 // console.log(totalLike);
