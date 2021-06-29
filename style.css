@@ -5,7 +5,6 @@
 }
 body {
 	font-family: sans-serif;
-	/* padding: 50px; */
 	height: 100vh;
 	background: rgb(173, 216, 230);
 	color: rgb(61, 87, 95);
@@ -63,11 +62,4 @@ ol {
 	font-weight: lighter;
 	padding: 10px;
 	font-size: clamp(20px, 3vw, 30px);
-
-	/* border: 2px solid white; */
-}
-
-span {
-	color: white;
-	font-weight: lighter;
 }
