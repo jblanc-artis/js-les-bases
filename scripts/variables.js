@@ -76,15 +76,15 @@ console.log('----------1.Les variables----------');
 // Doit appraitre dans la console : r t
 
 // <===== DEBUT CODE =====>
-let idole = 'Margaret';
-let troisiemeLettre;
-let derniereLettre;
+// let idole = 'Margaret';
+// let troisiemeLettre;
+// let derniereLettre;
 // console.log();
 // <===== FIN CODE =====>
 
 // ------------------------EXO 7------------------------
 // Créer un tableau avec la variable myArray
-// Le tableau devrait comporter un string, un number négatif, une division et un test.
+// Le tableau devrait comporter un string, une sousctraction, une division et un test.
 // Doit apparaitre dans la console : ["bibiche", -5, 4, false]
 
 // <===== DEBUT CODE =====>
