@@ -33,7 +33,7 @@ body > * {
 .container h1 {
 	-webkit-text-stroke: 3px yellow;
 	-webkit-text-fill-color: rgba(0, 0, 0, 0);
-	font-size: clamp(40px, 30vw, 200px);
+	font-size: clamp(40px, 35vw, 250px);
 }
 
 .container img {
