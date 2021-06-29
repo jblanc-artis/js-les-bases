@@ -34,6 +34,7 @@ body > * {
 	-webkit-text-stroke: 3px yellow;
 	-webkit-text-fill-color: rgba(0, 0, 0, 0);
 	font-size: clamp(40px, 35vw, 250px);
+	text-shadow: 0 0 100px white, 0 0 150px yellow, 0 0 200px yellow, 0 0 250px yellow;
 }
 
 .container img {
